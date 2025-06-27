@@ -207,15 +207,15 @@
   background-position: center;
 }
 
-.lot-first {
+.lot-film {
   background-image: url("../images/card-lot-01.jpg");
 }
 
-.lot-second {
+.lot-book {
   background-image: url("../images/card-lot-02.jpg");
 }
 
-.lot-third {
+.lot-picture {
   background-image: url("../images/card-lot-03.jpg");
 }
 
@@ -304,16 +304,6 @@
 
 .footer-address {
   justify-self: start;
-}
-
-.footer-text-phone-number {
-  position: relative;
-  top: 2px;
-}
-
-.footer-text-email {
-  position: relative;
-  top: 5px;
 }
 
 .footer-menu {
